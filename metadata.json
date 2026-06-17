@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Takeaway",
+  "description": "Sistema de takeaway completo com gerenciador e faturamento em Meticais (MT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
